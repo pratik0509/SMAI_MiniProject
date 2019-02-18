@@ -1,0 +1,8 @@
+./problem_statement/dataset/000_065.jpg
+./problem_statement/dataset/001_065.jpg
+./problem_statement/dataset/002_065.jpg
+./problem_statement/dataset/003_065.jpg
+./problem_statement/dataset/004_065.jpg
+./problem_statement/dataset/005_065.jpg
+./problem_statement/dataset/006_065.jpg
+./problem_statement/dataset/007_065.jpg

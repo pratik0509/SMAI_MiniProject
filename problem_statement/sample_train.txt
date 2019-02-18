@@ -1,0 +1,9 @@
+./problem_statement/dataset/000_000.jpg alice
+./problem_statement/dataset/000_010.jpg alice
+./problem_statement/dataset/000_015.jpg alice
+./problem_statement/dataset/002_003.jpg bob
+./problem_statement/dataset/002_012.jpg bob
+./problem_statement/dataset/002_020.jpg bob
+./problem_statement/dataset/005_030.jpg abc
+./problem_statement/dataset/005_011.jpg abc
+./problem_statement/dataset/005_012.jpg abc
